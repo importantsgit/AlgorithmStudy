@@ -1,4 +1,4 @@
-var card1 = ["i","water","drink"]
+,var card1 = ["i","water","drink"]
 
 var card2 = ["want","to"]
 
