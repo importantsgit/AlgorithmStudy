@@ -83,6 +83,7 @@
 		30DF81BA29E42F1B003C9184 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				7B74A03C29E50871008A20B8 /* 기초 */,
 				30DF81BB29E42F29003C9184 /* BFSDFS */,
 			);
 			path = Programmers;
@@ -97,6 +98,14 @@
 				30DF81BE29E45139003C9184 /* 단어변환.playground */,
 			);
 			path = BFSDFS;
+			sourceTree = "<group>";
+		};
+		7B74A03C29E50871008A20B8 /* 기초 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "기초";
+			path = "기초";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
