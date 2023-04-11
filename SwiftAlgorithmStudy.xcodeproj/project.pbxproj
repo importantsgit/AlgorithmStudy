@@ -130,9 +130,7 @@
 				7B74A06E29E50AC3008A20B8 /* 알고리즘 */,
 				7B74A05629E50A40008A20B8 /* 자료구조 */,
 				7B74A06629E50A98008A20B8 /* ETC */,
-				7B74A04629E509E7008A20B8 /* Acmicpc */,
-				30DF81BA29E42F1B003C9184 /* Programmers */,
-				7B74A06529E50A7B008A20B8 /* Algospot */,
+				7B74A09329E50D13008A20B8 /* Problem */,
 				30DF81B929E42EFD003C9184 /* View */,
 				30DF81B229E42EDF003C9184 /* Info.plist */,
 			);
@@ -266,6 +264,16 @@
 			);
 			name = "알고리즘";
 			path = "알고리즘";
+			sourceTree = "<group>";
+		};
+		7B74A09329E50D13008A20B8 /* Problem */ = {
+			isa = PBXGroup;
+			children = (
+				7B74A04629E509E7008A20B8 /* Acmicpc */,
+				30DF81BA29E42F1B003C9184 /* Programmers */,
+				7B74A06529E50A7B008A20B8 /* Algospot */,
+			);
+			path = Problem;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
