@@ -48,6 +48,8 @@
 		30DF81BD29E43FF1003C9184 /* 네트워크.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "네트워크.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30DF81BE29E45139003C9184 /* 단어변환.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "단어변환.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		30E2C02B29E58DD60092D94E /* 퍼즐 조각 채우기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "퍼즐 조각 채우기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30E53FAB29E8505700269651 /* 피로도.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "피로도.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		30E53FAC29E85E7300269651 /* 전력망을 둘로 나누기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "전력망을 둘로 나누기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A03D29E509D8008A20B8 /* 공원산책.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "공원산책.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A03E29E509D9008A20B8 /* 덧칠하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "덧칠하기.playground"; sourceTree = "<group>"; };
 		7B74A03F29E509D9008A20B8 /* 광물 캐기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "광물 캐기.playground"; sourceTree = "<group>"; };
@@ -121,6 +123,8 @@
 				3060A77429E6DEFF009CC9E3 /* 최소직사각형.playground */,
 				3060A77529E6E9DF009CC9E3 /* 모의고사.playground */,
 				3060A77629E706D9009CC9E3 /* 소수판별.playground */,
+				30E53FAB29E8505700269651 /* 피로도.playground */,
+				30E53FAC29E85E7300269651 /* 전력망을 둘로 나누기.playground */,
 			);
 			name = "완전탐색";
 			path = "완전탐색";
