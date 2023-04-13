@@ -100,6 +100,7 @@
 		7B74A09629E525A1008A20B8 /* 사과박스_약수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "사과박스_약수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC229E65E1200376DA8 /* 힙 자료구조.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "힙 자료구조.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC329E6682C00376DA8 /* 디스크 컨트롤러.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "디스크 컨트롤러.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BFA370029E8166300152AF3 /* 카펫.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "카펫.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +159,7 @@
 		30DF81BA29E42F1B003C9184 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				7BFA36FF29E8163A00152AF3 /* 완전탐색 */,
 				7BC3AEC129E65E0500376DA8 /* 힙 */,
 				7B74A03C29E50871008A20B8 /* 기초 */,
 				30DF81BB29E42F29003C9184 /* BFSDFS */,
@@ -293,6 +295,15 @@
 			);
 			name = "힙";
 			path = "힙";
+			sourceTree = "<group>";
+		};
+		7BFA36FF29E8163A00152AF3 /* 완전탐색 */ = {
+			isa = PBXGroup;
+			children = (
+				7BFA370029E8166300152AF3 /* 카펫.playground */,
+			);
+			name = "완전탐색";
+			path = "완전탐색";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
