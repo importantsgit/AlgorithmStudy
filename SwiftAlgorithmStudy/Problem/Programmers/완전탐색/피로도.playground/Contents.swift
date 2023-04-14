@@ -37,6 +37,7 @@ solution(k, dungeons)
 // 이런 것도 생각하기
 private func explore(_ k: Int, _ dungeons: [[Int]], _ depth: Int) -> Int {
     return dungeons.map { dungeon in
+        // 이 방법은 DFS에 어울리는 방법이다.
         k >= dungeon[0] ? explore(k - dungeon[1], dungeons.filter { elem in dungeon != elem }, depth + 1) : depth
     }.max() ?? depth
 }
