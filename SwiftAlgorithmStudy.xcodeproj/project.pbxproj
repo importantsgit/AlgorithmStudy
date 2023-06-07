@@ -63,13 +63,13 @@
 		7B74A04D29E50A34008A20B8 /* Brute Force문제 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Brute Force문제"; sourceTree = "<group>"; };
 		7B74A04E29E50A34008A20B8 /* Stack문제 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Stack문제"; sourceTree = "<group>"; };
 		7B74A04F29E50A34008A20B8 /* Greedy문제 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Greedy문제"; sourceTree = "<group>"; };
-		7B74A06729E50AAA008A20B8 /* Design_init&Convenience_init.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Design_init&Convenience_init.playground"; sourceTree = "<group>"; };
-		7B74A06829E50AAA008A20B8 /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; };
+		7B74A06729E50AAA008A20B8 /* Design_init&Convenience_init.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Design_init&Convenience_init.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B74A06829E50AAA008A20B8 /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A06929E50AAA008A20B8 /* Math.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Math.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		7B74A06A29E50AAA008A20B8 /* File.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = File.playground; sourceTree = "<group>"; };
-		7B74A06B29E50AAA008A20B8 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; };
-		7B74A06C29E50AAA008A20B8 /* 반복문.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "반복문.playground"; sourceTree = "<group>"; };
-		7B74A06D29E50AAB008A20B8 /* Character.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Character.playground; sourceTree = "<group>"; };
+		7B74A06A29E50AAA008A20B8 /* File.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = File.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B74A06B29E50AAA008A20B8 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B74A06C29E50AAA008A20B8 /* 반복문.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "반복문.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B74A06D29E50AAB008A20B8 /* Character.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Character.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A06F29E50ACC008A20B8 /* DFS_BFS */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DFS_BFS; sourceTree = "<group>"; };
 		7B74A07029E50ACC008A20B8 /* 알고리즘DP */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "알고리즘DP"; sourceTree = "<group>"; };
 		7B74A07129E50ACC008A20B8 /* Karasuba */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Karasuba; sourceTree = "<group>"; };
@@ -79,8 +79,8 @@
 		7B74A07829E50B25008A20B8 /* Day1_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day1_2.playground; sourceTree = "<group>"; };
 		7B74A07929E50B25008A20B8 /* Day3_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day3_2.playground; sourceTree = "<group>"; };
 		7B74A07A29E50B25008A20B8 /* Day4_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day4_3.playground; sourceTree = "<group>"; };
-		7B74A07B29E50B25008A20B8 /* Day2_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day2_3.playground; sourceTree = "<group>"; };
-		7B74A07C29E50B25008A20B8 /* Day3_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day3_1.playground; sourceTree = "<group>"; };
+		7B74A07B29E50B25008A20B8 /* Day2_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day2_3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B74A07C29E50B25008A20B8 /* Day3_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day3_1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A07D29E50B25008A20B8 /* Day4_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day4_1.playground; sourceTree = "<group>"; };
 		7B74A07E29E50B25008A20B8 /* Day5_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day5_1.playground; sourceTree = "<group>"; };
 		7B74A07F29E50B25008A20B8 /* Day4_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day4_2.playground; sourceTree = "<group>"; };
@@ -99,6 +99,9 @@
 		7B74A09429E50E2C008A20B8 /* 여행경로.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "여행경로.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A09529E52588008A20B8 /* 문제.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문제.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B74A09629E525A1008A20B8 /* 사과박스_약수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "사과박스_약수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B80A7EA2A3009920074F40D /* 1475.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1475.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B80A7EB2A3018DF0074F40D /* 11723.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 11723.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7B80A7EC2A301E520074F40D /* 17478.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 17478.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B841D7629E900C3004AE241 /* 소수판별.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소수판별.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B841D7729E900C3004AE241 /* 최소직사각형.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "최소직사각형.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7B841D7829E900C3004AE241 /* 모의고사.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "모의고사.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -106,6 +109,7 @@
 		7B841D7A29E900CA004AE241 /* 피로도.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "피로도.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC229E65E1200376DA8 /* 힙 자료구조.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "힙 자료구조.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC329E6682C00376DA8 /* 디스크 컨트롤러.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "디스크 컨트롤러.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BF731BD2A29C61300C43388 /* 2563.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2563.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BFA370029E8166300152AF3 /* 카펫.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "카펫.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -211,6 +215,7 @@
 		7B74A04629E509E7008A20B8 /* Acmicpc */ = {
 			isa = PBXGroup;
 			children = (
+				7BF731BC2A29C60300C43388 /* 구현문제 */,
 				7B74A04D29E50A34008A20B8 /* Brute Force문제 */,
 				7B74A04A29E50A33008A20B8 /* DP문제 */,
 				7B74A04F29E50A34008A20B8 /* Greedy문제 */,
@@ -302,6 +307,18 @@
 			);
 			name = "힙";
 			path = "힙";
+			sourceTree = "<group>";
+		};
+		7BF731BC2A29C60300C43388 /* 구현문제 */ = {
+			isa = PBXGroup;
+			children = (
+				7BF731BD2A29C61300C43388 /* 2563.playground */,
+				7B80A7EA2A3009920074F40D /* 1475.playground */,
+				7B80A7EB2A3018DF0074F40D /* 11723.playground */,
+				7B80A7EC2A301E520074F40D /* 17478.playground */,
+			);
+			name = "구현문제";
+			path = "구현문제";
 			sourceTree = "<group>";
 		};
 		7BFA36FF29E8163A00152AF3 /* 완전탐색 */ = {
