@@ -109,6 +109,12 @@
 		7B841D7A29E900CA004AE241 /* 피로도.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "피로도.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC229E65E1200376DA8 /* 힙 자료구조.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "힙 자료구조.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BC3AEC329E6682C00376DA8 /* 디스크 컨트롤러.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "디스크 컨트롤러.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD37D3B2A32A531003F13B1 /* 2740.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2740.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD37D3C2A32B691003F13B1 /* 2161.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2161.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD37D3D2A32BC41003F13B1 /* 25206.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 25206.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD3D1792A31546500AE147D /* 2167.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2167.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD3D17A2A31597E00AE147D /* 2504.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2504.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7BD3D17B2A3174E300AE147D /* 16926.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 16926.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BF731BD2A29C61300C43388 /* 2563.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2563.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7BFA370029E8166300152AF3 /* 카펫.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "카펫.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -316,6 +322,12 @@
 				7B80A7EA2A3009920074F40D /* 1475.playground */,
 				7B80A7EB2A3018DF0074F40D /* 11723.playground */,
 				7B80A7EC2A301E520074F40D /* 17478.playground */,
+				7BD3D1792A31546500AE147D /* 2167.playground */,
+				7BD3D17A2A31597E00AE147D /* 2504.playground */,
+				7BD3D17B2A3174E300AE147D /* 16926.playground */,
+				7BD37D3B2A32A531003F13B1 /* 2740.playground */,
+				7BD37D3C2A32B691003F13B1 /* 2161.playground */,
+				7BD37D3D2A32BC41003F13B1 /* 25206.playground */,
 			);
 			name = "구현문제";
 			path = "구현문제";

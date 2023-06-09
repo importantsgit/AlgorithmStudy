@@ -36,3 +36,6 @@ fmax(2.0, 3.0) // 3
 round(3.50404)
 
 
+// n번째 소수점에서 반올림, 올림, 내림
+let digit: Double = pow(10, 3)
+round(5.1113232 * digit) / digit // 5.123
